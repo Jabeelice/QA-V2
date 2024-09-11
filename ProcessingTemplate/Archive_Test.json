@@ -1,0 +1,15 @@
+{
+  "description": "101",
+  "highRiskStatisticMethod": "PERCENT",
+  "highRiskStatisticPeriod": "WEEK",
+  "highRiskThreshold": 3,
+  "owner": "Jabee",
+  "priority": "0",
+  "processingType": "TASK",
+  "serverNodeType": "INTERNAL",
+  "statisticMethod": "MEDIAN",
+  "statisticPeriod": "ALL",
+  "taskType": "ARCHIVE_INTERVAL",
+  "customFieldValues": {
+  }
+}
